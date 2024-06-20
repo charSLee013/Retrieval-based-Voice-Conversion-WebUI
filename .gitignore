@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__
+/TEMP
+*.pyd
+hubert_base.pt
+/logs
+.venv
+*.wav
+*.pth
+*.pt
