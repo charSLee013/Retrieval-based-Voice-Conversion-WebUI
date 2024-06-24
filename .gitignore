@@ -5,10 +5,8 @@ __pycache__
 hubert_base.pt
 /logs
 .venv
-*.wav
 *.pth
 *.pt
-*.npy
 *.onnx
 
 # pyc files
